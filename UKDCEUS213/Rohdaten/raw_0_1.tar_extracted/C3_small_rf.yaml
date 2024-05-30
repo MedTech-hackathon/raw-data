@@ -1,0 +1,76 @@
+# raw data parameters
+
+software version: 11.1.0-540
+iso time/date: 2024-02-05T14-03-23+0000
+probe:
+  version: hd3
+  elements: 192
+  pitch: 300.00
+  radius: 45.00
+frames: 46
+frame rate: 14.89 Hz
+transmit frequency: 3.50 MHz
+imaging depth: 156.10 mm
+focal depth: 68.71 mm
+auto gain: off
+tgc: 
+  - { 0.00mm, 10.00dB }
+  - { 120.00mm, 35.00dB }
+size: {samples per line: 336,number of lines: 40,sample size: 2 bytes}
+type: RF
+compression: none
+sampling rate: 15 MHz
+delay samples: 1175
+lines:
+  - {rx element: 65,tx element: 65,angle: 0 °}
+  - {rx element: 66,tx element: 66,angle: 0 °}
+  - {rx element: 67,tx element: 67,angle: 0 °}
+  - {rx element: 68,tx element: 68,angle: 0 °}
+  - {rx element: 69,tx element: 69,angle: 0 °}
+  - {rx element: 70,tx element: 70,angle: 0 °}
+  - {rx element: 71,tx element: 71,angle: 0 °}
+  - {rx element: 72,tx element: 72,angle: 0 °}
+  - {rx element: 73,tx element: 73,angle: 0 °}
+  - {rx element: 74,tx element: 74,angle: 0 °}
+  - {rx element: 75,tx element: 75,angle: 0 °}
+  - {rx element: 76,tx element: 76,angle: 0 °}
+  - {rx element: 77,tx element: 77,angle: 0 °}
+  - {rx element: 78,tx element: 78,angle: 0 °}
+  - {rx element: 79,tx element: 79,angle: 0 °}
+  - {rx element: 80,tx element: 80,angle: 0 °}
+  - {rx element: 81,tx element: 81,angle: 0 °}
+  - {rx element: 82,tx element: 82,angle: 0 °}
+  - {rx element: 83,tx element: 83,angle: 0 °}
+  - {rx element: 84,tx element: 84,angle: 0 °}
+  - {rx element: 85,tx element: 85,angle: 0 °}
+  - {rx element: 86,tx element: 86,angle: 0 °}
+  - {rx element: 87,tx element: 87,angle: 0 °}
+  - {rx element: 88,tx element: 88,angle: 0 °}
+  - {rx element: 89,tx element: 89,angle: 0 °}
+  - {rx element: 90,tx element: 90,angle: 0 °}
+  - {rx element: 91,tx element: 91,angle: 0 °}
+  - {rx element: 92,tx element: 92,angle: 0 °}
+  - {rx element: 93,tx element: 93,angle: 0 °}
+  - {rx element: 94,tx element: 94,angle: 0 °}
+  - {rx element: 95,tx element: 95,angle: 0 °}
+  - {rx element: 96,tx element: 96,angle: 0 °}
+  - {rx element: 97,tx element: 97,angle: 0 °}
+  - {rx element: 98,tx element: 98,angle: 0 °}
+  - {rx element: 99,tx element: 99,angle: 0 °}
+  - {rx element: 100,tx element: 100,angle: 0 °}
+  - {rx element: 101,tx element: 101,angle: 0 °}
+  - {rx element: 102,tx element: 102,angle: 0 °}
+  - {rx element: 103,tx element: 103,angle: 0 °}
+  - {rx element: 104,tx element: 104,angle: 0 °}
+focus:
+  - depth: 68.709666666666664 mm
+    tx frequency: 3.5 MHz
+    receive:
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
+      - {shallowfreq: 5 MHz,deepfreq: 3.5 MHz,filterdepth: 170 mm}
