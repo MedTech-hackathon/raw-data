@@ -1,0 +1,59 @@
+# raw data parameters
+
+software version: 10.3.0-486
+iso time/date: 2023-07-27T11-29-50+0000
+probe:
+  version: hd3
+  elements: 192
+  pitch: 300.00
+  radius: 45.00
+frames: 68
+frame rate: 22.74 Hz
+transmit frequency: 2.50 MHz
+imaging depth: 75.10 mm
+focal depth: 30.88 mm
+tgc: 
+  - { 0.00mm, 15.00dB }
+  - { 120.00mm, 35.00dB }
+size: {samples per line: 304, number of lines: 24, sample size: 2 bytes}
+type: RF
+compression: none
+sampling rate: 15 MHz
+delay samples: 454
+lines:
+  - {rx element: 125, tx element: 125, angle: 0 °}
+  - {rx element: 126, tx element: 126, angle: 0 °}
+  - {rx element: 127, tx element: 127, angle: 0 °}
+  - {rx element: 128, tx element: 128, angle: 0 °}
+  - {rx element: 129, tx element: 129, angle: 0 °}
+  - {rx element: 130, tx element: 130, angle: 0 °}
+  - {rx element: 131, tx element: 131, angle: 0 °}
+  - {rx element: 132, tx element: 132, angle: 0 °}
+  - {rx element: 133, tx element: 133, angle: 0 °}
+  - {rx element: 134, tx element: 134, angle: 0 °}
+  - {rx element: 135, tx element: 135, angle: 0 °}
+  - {rx element: 136, tx element: 136, angle: 0 °}
+  - {rx element: 137, tx element: 137, angle: 0 °}
+  - {rx element: 138, tx element: 138, angle: 0 °}
+  - {rx element: 139, tx element: 139, angle: 0 °}
+  - {rx element: 140, tx element: 140, angle: 0 °}
+  - {rx element: 141, tx element: 141, angle: 0 °}
+  - {rx element: 142, tx element: 142, angle: 0 °}
+  - {rx element: 143, tx element: 143, angle: 0 °}
+  - {rx element: 144, tx element: 144, angle: 0 °}
+  - {rx element: 145, tx element: 145, angle: 0 °}
+  - {rx element: 146, tx element: 146, angle: 0 °}
+  - {rx element: 147, tx element: 147, angle: 0 °}
+  - {rx element: 148, tx element: 148, angle: 0 °}
+focus:
+  - depth: 30.876999999999999 mm
+    tx frequency: 2.5 MHz
+    receive:
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
+      - {shallowfreq: 5 MHz, deepfreq: 4 MHz, filterdepth: 100 mm}
